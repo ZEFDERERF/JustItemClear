@@ -29,7 +29,7 @@ public class justitemclear extends JavaPlugin implements Listener {
         
         getServer().getPluginManager().registerEvents(this, this);
         logger.info("JustItemClear 插件已启用！");
-        logger.info("JustItemClear By SnowYU_ QQ 2028356250");
+        logger.info("JustItemClear By ZEFDERERF QQ 2028356250");
     }
 
     @Override
@@ -105,6 +105,7 @@ public class justitemclear extends JavaPlugin implements Listener {
             }
         }
     }
+
 
 
 }
