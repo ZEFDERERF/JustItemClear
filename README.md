@@ -61,3 +61,4 @@ JustItemClear是一个轻量级的Minecraft Bukkit/Spigot插件，用于自动�
 
 如有问题或建议，请联系插件开发者或创建Issus。
 Email: hlpeme1@outlook.com
+QQ: 2028356250@qq.com
